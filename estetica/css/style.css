@@ -1,0 +1,119 @@
+body {
+  background-color: #67d167;
+  font-family: "Shantell Sans", cursive;
+}
+
+.shantell-sans-uniquifier {
+  font-family: "Shantell Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "BNCE" 0, "INFM" 0, "SPAC" 0;
+}
+
+.curso {
+    width: 250px;
+    background-color: #6E675F;
+    border: 1px solid #423E37;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 0;
+    box-sizing: border-box;
+}
+.python {
+    background-image: url("imagenes/python.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.diseño {
+    background-image: url("imagenes/diseñografi.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.javascript {
+    background-image: url("imagenes/java.jpg");
+    background-size: cover;
+    background-position: center;
+}
+body {
+    background-color: #EDEBD7;
+    font-family: Arial, sans-serif;
+}
+h1, h2, h3, p {
+    color: #423E37;
+}
+.contenedor-cursos {
+    max-width: 850px;
+    margin: 0 auto;
+}
+.curso h2,
+.curso p {
+    color: #EDEBD7;
+}
+button {
+    background-color: #3AAFB9;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #423E37;
+}
+
+
+.mis-cursos {
+    background-color: #6E675F;
+    border: 2px solid #423E37;
+    padding: 25px;
+    margin: 30px auto;
+    max-width: 850px;
+    text-align: center;
+}
+.mis-cursos h2,
+.mis-cursos p {
+    color: #EDEBD7;
+}
+.mis-cursos button {
+    background-color: #3AAFB9;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+}
+.mis-cursos button:hover {
+    background-color: #423E37;
+}
+#misCursos {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #EDEBD7;
+    text-align: left;
+}
+#misCursos h3,
+#misCursos p {
+    color: #423E37;
+}
+
+.banner img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    display: block;
+}
+
+.vender-curso {
+    background-color: #6E675F;
+    padding: 25px;
+    margin: 30px auto;
+    max-width: 850px;
+    border: 1px solid #423E37;
+    text-align: center;
+}
+.vender-curso h2,
+.vender-curso p {
+    color: #EDEBD7;
+}
